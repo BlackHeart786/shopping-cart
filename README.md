@@ -1,1 +1,1 @@
-Shoping cart website by JEE
+Shoping cart website
